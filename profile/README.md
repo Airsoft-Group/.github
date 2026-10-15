@@ -1,8 +1,9 @@
-<p align="center">
-  <a href="https://airsoftgroup.uz"><img src="https://airsoftgroup.uz/assets/press/asg-logo-1024.png" width="96" height="96" alt="Airsoft Group"></a>
-</p>
-
-<h3 align="center">Airsoft Group</h3>
+<a href="https://airsoftgroup.uz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.png">
+    <img src="assets/readme-banner-light.png" alt="Airsoft Group — simple games, useful apps, software for businesses" width="100%">
+  </picture>
+</a>
 
 <p align="center">
   An independent studio from Uzbekistan making simple games, useful apps and software for businesses.<br>
